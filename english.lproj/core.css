@@ -3,8 +3,12 @@
 */
 
 body.aristo-theme {
-  font: normal 12px/22px Arial, sans-serif;
   padding: 0;
+}
+
+body.aristo-theme,
+body.sc-theme .sc-view {
+  font: normal 12px/22px Arial, sans-serif;
 }
 
 /**

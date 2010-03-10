@@ -1,4 +1,6 @@
-Cappuccino's Aristo for Sproutcore!
+Cappuccino's Aristo for SproutCore! 
+
+Ported by [http://levimccallum.com/](Levi McCallum).
 
 Install
 -------
@@ -6,7 +8,7 @@ Install
 First cd into your app and do this:
 
 	mkdir themes
-	git clone git://github.com/stillmotion/sproutcore-aristo.git aristo_theme
+	git clone git://github.com/stillmotion/sproutcore-aristo.git themes/aristo_theme
 
 Now add this to Buildfile:
 
@@ -14,13 +16,12 @@ Now add this to Buildfile:
 	  :theme => :aristo_theme
 	
 	config :aristo_theme, 
-	  :required => :empty_theme, 
 	  :theme_name => 'aristo-theme'
 
 Attribution
 -----------
 
-Aristo is an open sourceå UI distributed as part of the [Cappuccino Web Application Framework](http://cappuccino.org)
+Aristo is an open source UI distributed as part of the [Cappuccino Web Application Framework](http://cappuccino.org)
 and specifically designed for the cross platform challenges applications face today.
 It is a collaborative effort by [280 North, Inc.](http://280north.com/) and [Sofa](http://www.madebysofa.com/)
 and released under the Creative Commons Attribution Share-Alike License.
