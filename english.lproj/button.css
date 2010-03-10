@@ -104,17 +104,14 @@
  Selection
 */
 
-.aristo-theme .sc-button-view.sc-regular-size.square.def,
 .aristo-theme .sc-button-view.sc-regular-size.square.sel {
   background: static_url('images/aristo-theme-repeat-x.png') no-repeat right -240px;
 }
 
-.aristo-theme .sc-button-view.sc-regular-size.square.def .sc-button-inner,
 .aristo-theme .sc-button-view.sc-regular-size.square.sel .sc-button-inner {
   background: static_url('images/aristo-theme-repeat-x.png') no-repeat left -264px;
 }
 
-.aristo-theme .sc-button-view.sc-regular-size.square.def .sc-button-label,
 .aristo-theme .sc-button-view.sc-regular-size.square.sel .sc-button-label {
   background: static_url('images/aristo-theme-repeat-x.png') repeat-x left -216px;
 }
@@ -123,17 +120,14 @@
  Selection Active
 */
 
-.aristo-theme .sc-button-view.sc-regular-size.square.def.active,
 .aristo-theme .sc-button-view.sc-regular-size.square.sel.active {
   background: static_url('images/aristo-theme-repeat-x.png') no-repeat right -312px;
 }
 
-.aristo-theme .sc-button-view.sc-regular-size.square.def.active .sc-button-inner,
 .aristo-theme .sc-button-view.sc-regular-size.square.sel.active .sc-button-inner {
   background: static_url('images/aristo-theme-repeat-x.png') no-repeat left -336px;
 }
 
-.aristo-theme .sc-button-view.sc-regular-size.square.def.active .sc-button-label,
 .aristo-theme .sc-button-view.sc-regular-size.square.sel.active .sc-button-label {
   background: static_url('images/aristo-theme-repeat-x.png') repeat-x left -288px;
 }

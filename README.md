@@ -1,6 +1,6 @@
 Cappuccino's Aristo for SproutCore! 
 
-Ported by [http://levimccallum.com/](Levi McCallum).
+Ported by [Levi McCallum](http://levimccallum.com/).
 
 Install
 -------
