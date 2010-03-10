@@ -29,10 +29,9 @@
 .aristo-theme .sc-button-view.sc-regular-size.square .sc-button-label {
   display: block;
   text-align: center;
-  padding: 0px 0px 7px 0px;
+  padding: 0px 0px 15px 0px;
 }
 
-.aristo-theme .sc-button-view.sc-regular-size.square.def .sc-button-label,
 .aristo-theme .sc-button-view.sc-regular-size.square.sel .sc-button-label {
 	color: #1c4257;
 	text-shadow: #e9f1f6 0px 1px 0px;
@@ -63,8 +62,8 @@
 .aristo-theme .sc-button-view.sc-regular-size.square .sc-button-label {
   height: 18px;
   line-height: 24px;  
-  margin-left: 11px;
-  margin-right: 11px;  
+  margin-left: 15px;
+  margin-right: 15px;  
   background: static_url('images/aristo-theme-repeat-x.png') repeat-x left 0;
 }
 
