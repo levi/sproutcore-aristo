@@ -3,10 +3,19 @@ Cappuccino's Aristo for Sproutcore!
 Install
 -------
 
-cd myapp/
-mkdir themes
-git clone git://github.com/stillmotion/sproutcore-aristo.git aristo_theme
+First cd into your app and do this:
 
+	mkdir themes
+	git clone git://github.com/stillmotion/sproutcore-aristo.git aristo_theme
+
+Now add this to Buildfile:
+
+	config :all,
+	  :theme => :aristo_theme
+	
+	config :aristo_theme, 
+	  :required => :empty_theme, 
+	  :theme_name => 'aristo-theme'
 
 Attribution
 -----------
