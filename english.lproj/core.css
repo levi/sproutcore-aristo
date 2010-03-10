@@ -1,0 +1,16 @@
+/**
+ Aristo theme for Sproutcore.
+*/
+
+body.aristo-theme {
+  font: normal 12px/22px Arial, sans-serif;
+  padding: 0;
+}
+
+/**
+ Loading screen
+*/
+.aristo-theme #loading p.loading {
+  font: bold 14px/24px Arial, sans-serif;
+  text-align:center;
+}
