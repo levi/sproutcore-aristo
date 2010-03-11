@@ -17,6 +17,36 @@ Now add this to Buildfile:
 	
 	config :aristo_theme, 
 	  :theme_name => 'aristo-theme'
+	
+Status
+------
+
+**Currently Supported**
+
+* ButtonView
+* SegmentedView
+* SelectButton
+
+**TODO**
+
+* ButtonView
+	* Smaller sizes (only regular-size is supported)
+	* Multiple styles (only "square" is currently supported)
+	* Default selection style (currently remains grey)
+* SegmentedView
+	* Needs disabled styles
+	* Force left/right aligning
+* SelectButton
+	* Needs CSS cleanup
+	* Needs Disabled style
+	* Selection menu needs styling
+* CheckBoxView
+* SliderView
+* Menu design
+	* This one's tricky, since SproutCore has no "menu". This needs some thought.
+* Scroller
+* Modal Panes (Aristo Window feel without the "browser" look)
+
 
 Attribution
 -----------
