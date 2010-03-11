@@ -25,7 +25,7 @@ Status
 
 * ButtonView
 * SegmentedView
-* SelectButton
+* SelectButtonView
 
 **TODO**
 
@@ -36,14 +36,15 @@ Status
 * SegmentedView
 	* Needs disabled styles
 	* Force left/right aligning
-* SelectButton
+* SelectButtonView
 	* Needs CSS cleanup
 	* Needs Disabled style
 	* Selection menu needs styling
 * CheckBoxView
+* RadioView
 * SliderView
 * Menu design
-	* This one's tricky, since SproutCore has no "menu". This needs some thought.
+	* This one's tricky, since SproutCore has no "menu". Needs some thought.
 * Scroller
 * Modal Panes (Aristo Window feel without the "browser" look)
 
