@@ -1,4 +1,4 @@
-Cappuccino's Aristo for SproutCore! 
+Cappuccino's Aristo for SproutCore!
 
 Ported by [Levi McCallum](http://levimccallum.com/).
 
@@ -14,10 +14,10 @@ Now add this to Buildfile:
 
 	config :all,
 	  :theme => :aristo_theme
-	
-	config :aristo_theme, 
+
+	config :aristo_theme,
 	  :theme_name => 'aristo-theme'
-	
+
 Status
 ------
 
